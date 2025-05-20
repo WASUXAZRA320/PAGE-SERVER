@@ -81,7 +81,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/XwWmbDj/b88758eac9f5d6d7b3a9f35f2968d482.jpg');
+      background-image: url('https://i.ibb.co/MkjtyWNk/f61bc370982fd9591ef965adfad4eb9d.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
